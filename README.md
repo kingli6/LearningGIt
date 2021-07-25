@@ -11,7 +11,7 @@ git clone <link>, to download files to computer through terminal.
 git status in terminal to see the status of all files.
 git add .   //in terminal, . refers to all the files.
 git commit -m "message here" -m "second message"    //-m is for message, you need to have a message to commit your files.
-
+git push
 
 
 
