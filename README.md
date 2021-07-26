@@ -24,7 +24,7 @@ On branch master
 >git push origin master    //if you don't want to type origin master everytime, you can do "git push -u origin master"
 
 >git branch // to check which branch your in
->git checkout -b anydiscriptionhere-creatingbranch-blabla //creating branch with -b (without -b, you'll be switching to other branches)
+>git checkout -b branch_name //creating branch with -b (without -b, you'll be switching to other branches)
 
 press tab to auto complete
 
