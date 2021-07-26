@@ -5,11 +5,14 @@
 # One hashtag for main header
 
 ## Two hashtags for subheader 
->git clone <link>, to download files to computer through terminal.
+https://www.youtube.com/watch?v=RGOj5yH7evk     //tutorial for git
 
+>git clone <link>, to download files to computer through terminal.
 >git status // in terminal to see the status of all files.
 >git add .   //in terminal, . refers to all the files.
 >git commit -m "message here" -m "second message"    //-m is for message, you need to have a message to commit your files.
+
+git commit -am "message"    /-am adds and commits. which skips the add . step. Only available if the file has been submitted before.
 
 >git push
 >git push -u origin "nameofthebranch"    //-u is short for --set-upstream
@@ -26,9 +29,9 @@ On branch master
 press tab to auto complete
 
 >git diff main //or git diff "branch name, without quotes" to see the difference on that file.
-
-
+                //press q to quit
+>git branch -d branch_name        //deleting branch
 
 //extra commands
-cat filename.txt    //to print out the contents of the file.
-pbcopy < "path of your file"    //copies to clipboard
+>cat filename.txt    //to print out the contents of the file.
+>pbcopy < "path of your file"    //copies to clipboard
