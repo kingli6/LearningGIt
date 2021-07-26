@@ -12,6 +12,7 @@
 >git commit -m "message here" -m "second message"    //-m is for message, you need to have a message to commit your files.
 
 >git push
+>git push -u origin "nameofthebranch"    //-u is short for --set-upstream
 >git init    //Initialized empty Git repository in D:/C#programming/02Git/Own projects/.git/
 On branch master
 
