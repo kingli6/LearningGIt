@@ -24,7 +24,7 @@ On branch master
 
 press tab to auto complete
 
-
+>git diff main //or git diff "branch name, without quotes"
 
 
 
