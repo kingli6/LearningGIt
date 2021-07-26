@@ -25,7 +25,7 @@ On branch master
 
 press tab to auto complete
 
->git diff main //or git diff "branch name, without quotes"
+>git diff main //or git diff "branch name, without quotes" to see the difference on that file.
 
 
 
